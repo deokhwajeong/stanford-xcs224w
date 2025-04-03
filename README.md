@@ -1,14 +1,16 @@
 # stanford-xcs224w
 
-Deokhwa Jeong
+Deokhwa Jeong | PMP | Software Engineer
 
-I'm a former biological science researcher turned Smart TV software engineer and Engineering Program Manager. 
+I worked at LG Electronics (Smart TV division), starting at the R&D Center and later moving to the Seoul headquarters, where I led cross-functional initiatives in product and software development.
+During my M.S. studies in Molecular & Cell Biology, I conducted research on 3D cell structure reconstruction using High-Voltage Electron Microscopy and Java-based modeling.
 I'm currently deep-diving into Machine Learning with Graphs at Stanford.
 
 ## Background
-- M.S. in Molecular & Cell Biology, Korea University  
-- 10+ years at LG Electronics (Smart TV Division) as a Software Engineer & Program Manager  
-- PMP Certified
+- M.S. in Molecular & Cell Biology, Korea University (Seoul)
+- 10+ years at LG Electronics as a Software Engineer & Project Manager
+- PMP Certified  
+- PMI-ACP(Agile Instructor Track)
 
 ## Currently Learning
 - Graph Neural Networks (XCS224W, Stanford)  
@@ -17,7 +19,7 @@ I'm currently deep-diving into Machine Learning with Graphs at Stanford.
 
 ## Coming Soon
 - Bio data meets TV viewership data: Graph-based project  
-- Academic research (luciferase, 3D cell structure)  
+- Java-based 3D reconstruction of cell ultrastructure from tilt-series HVEM 
 - Tableau dashboards (TV feature analysis)
 
 Let’s connect.
