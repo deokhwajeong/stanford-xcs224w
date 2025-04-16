@@ -7,10 +7,9 @@ During my M.S. studies in Molecular & Cell Biology, I conducted research on 3D c
 I'm currently deep-diving into Machine Learning with Graphs at Stanford.
 
 ## Background
-- M.S. in Molecular & Cell Biology, Korea University (Seoul)
+- M.S. in Molecular & Cell Biology
 - 10+ years at LG Electronics as a Software Engineer & Project Manager
 - PMP Certified  
-- PMI-ACP(Agile Instructor Track)
 
 ## Currently Learning
 - Graph Neural Networks (XCS224W, Stanford)  
