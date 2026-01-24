@@ -57,6 +57,23 @@ I completed Stanford's XCS224W course on Machine Learning with Graphs with full 
 - Built node embedding pipeline from scratch
 - Implemented graph-to-tensor transformations
 
+**Visual Outputs:**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>Zachary's Karate Club Network</b></td>
+<td align="center"><b>Node Embeddings (2D Visualization)</b></td>
+</tr>
+<tr>
+<td><img src="images/colab1_output_1.png" width="400"/></td>
+<td><img src="images/colab1_output_2.png" width="400"/></td>
+</tr>
+</table>
+</div>
+
+*Left: 34-node social network graph | Right: Learned node embeddings showing Mr. Hi (red) vs Officer (blue) club members*
+
 ---
 
 ### Colab 2: Graph Neural Networks with PyTorch Geometric
@@ -97,6 +114,23 @@ I completed Stanford's XCS224W course on Machine Learning with Graphs with full 
 | Node Classification (CORA) | GAT | **78.9%** | Multi-head attention |
 | Link Prediction (CORA) | GCN | **90.2%** (AUC) | Best Val: 91.2% |
 
+**Visual Outputs:**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>Training Curves (GraphSAGE vs GAT)</b></td>
+<td align="center"><b>Link Prediction Graph</b></td>
+</tr>
+<tr>
+<td><img src="images/colab3_output_1.png" width="400"/></td>
+<td><img src="images/colab3_output_2.png" width="450"/></td>
+</tr>
+</table>
+</div>
+
+*Left: Loss and accuracy curves on CORA dataset | Right: Graph visualization with node labels (red=0, yellow=1)*
+
 ---
 
 ### Colab 4: Heterogeneous Graphs & Knowledge Graphs
@@ -116,6 +150,23 @@ I completed Stanford's XCS224W course on Machine Learning with Graphs with full 
 | Heterogeneous Node Classification | HeteroGNN (v2) | 100.0% | 96.3% | **82.1%** |
 | Large-scale HeteroGNN | Sampling-based | 76.9% | 70.1% | **68.6%** |
 | Knowledge Graph | TransE | 71.9% | 69.8% | **68.2%** |
+
+**Visual Outputs:**
+
+<div align="center">
+<table>
+<tr>
+<td align="center"><b>Heterogeneous Graph Structure</b></td>
+<td align="center"><b>Knowledge Graph Embeddings</b></td>
+</tr>
+<tr>
+<td><img src="images/colab4_output_1.png" width="400"/></td>
+<td><img src="images/colab4_output_6.png" width="400"/></td>
+</tr>
+</table>
+</div>
+
+*Left: Heterogeneous graph with multiple node/edge types | Right: Knowledge graph relation embeddings*
 
 ---
 
